@@ -1,0 +1,9 @@
+name: csv_utils
+description: Library for reliable parsing of CSV filess
+version: 0.2.0
+author: Dmitriy Fibulwinter <fibulwinter@gmail.com>
+homepage: https://github.com/fibulwinter/dart-csv
+dev_dependencies: 
+  unittest: ">=0.11.0 <1.0.0"
+environment:
+  sdk: ">=1.0.0 <2.0.0"
